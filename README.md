@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/1.png" width="100%" />
+<img src="start.png" width="100%" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="Assets/2.png" width="100%" />
+<img src="end.png" width="100%" />
 
 </div>
 
