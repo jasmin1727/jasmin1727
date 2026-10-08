@@ -1,47 +1,3 @@
-
-                                                                              
-  --------                                                                    
-                                                                              
-  ### ⚡ About Me                                                             
-                                                                              
-    Name: Jasmin                                                              
-    Age: 19                                                                   
-    Roots: Gujarat, India                                                     
-    Education: Diploma in Computer Engineering                                
-    Philosophy: "Fall, learn, build, rise — and never stop exploring."        
-    Mindset: Intellectual Omnivore                                            
-    Daily Driver: Arch Linux (Hyprland / Caelestia)                           
-    Current Mission: PTE Academic & Global Degree Journey                     
-                                                                              
-  • 🚀 Who I Am: A 19-year-old self-driven developer from Gujarat, India who  
-  fell in love with code, systems, and deep-dive learning.                    
-  • 🐧 System Geek: Running Arch Linux with custom Hyprland dotfiles and rices.
-  I love understanding how operating systems, kernels, and memory work under  
-  the hood.                                                                   
-  • 🌐 Full-Stack Journey: Built projects across the stack — from raw         
-  HTML/CSS/JS experiments and anime streaming sites to React, Next.js,        
-  TypeScript, Python, and Go terminal tools.                                  
-  • 📖 The Learning Ethos: Everything I know is self-taught through curiosity,
-  endless documentation, and raw persistence.                                 
-                                                                              
-  --------                                                                    
-                                                                              
-  ### 🛠️ Languages & Technologies                                             
-                                                                              
-                                                                              
-  ### 💻 Workspace & Tools                                                    
-                                                                              
-  --------                                                                    
-                                                                              
-  ### 📊 GitHub Activity & Metrics                                            
-                                                                              
-                                                                              
-                                                                              
-                                                                              
-  --------                                                                    
-  Designed with ❤️ by Jasmin • Powered by Curiosity & Arch Linux
-                                                                                                                                                                                                      
-◄ 0s ◎ cat /home/jasmin/Projects/me/README.md                                                                                                                                   ⌂ node ◫ 26.10.0 16:42
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Jasmin%20%E2%9C%A8&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Jasmin Header" width="100%" />
@@ -58,8 +14,8 @@
 
   <p align="center">
     <a href="https://github.com/jasmin1727"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://linkedin.com/in/jasmin-thakor-834083400"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/JThakor40699"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 
   <p align="center">
