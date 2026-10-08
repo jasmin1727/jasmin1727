@@ -25,8 +25,12 @@
   
   </tr>
 </table>
-## ✦ Languages
+## 
+<br>
 
+# ✦ Languages
+
+<br>
 <br>
 
 <table>
@@ -65,6 +69,11 @@
     </td>
   </tr>
 </table>
+<br>
+<br>
+
+# ✦ Workspace
+
 <br>
 
 <img src="Workspace.jpg" width="800" />
