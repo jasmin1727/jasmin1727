@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Jasmin%20%E2%9C%A8&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Jasmin Header" width="100%" />
@@ -102,7 +103,7 @@ Current Mission: PTE Academic & Global Degree Journey
   <sub>Designed with ❤️ by Jasmin • Powered by Curiosity & Arch Linux</sub>
 </div>
 
-<!--
+
 The Long Way Here
 
 Chapter 1: The Day I Was Humiliated
