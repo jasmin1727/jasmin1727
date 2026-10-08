@@ -22,13 +22,49 @@
 |_| |_|_____|_____|_____| \___/      \_/\_/    \___/|_| \_\_____|____/ 
 </pre>
     </td>
+  
   </tr>
 </table>
-
-<!--<sub>• system online — welcome_</sub>-->
+## ✦ Languages
 
 <br>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="C%2B%2B.png" width="250" height="300" /><br>
+      <b>C++</b>
+    </td>
+    <td align="center">
+      <img src="C.png" width="250" height="300" /><br>
+      <b>C</b>
+    </td>
+    <td align="center">
+      <img src="Python.png" width="240" height="290" /><br>
+      <b>Python</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Go.png" width="250" height="300" /><br>
+      <b>Go</b>
+    </td>
+    <td align="center">
+      <img src="javascript.png" width="250" height="300" /><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="Typescript.png" width="250" height="300" /><br>
+      <b>TypeScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="HTML%20CSS%20.png" width="250" height="300" /><br>
+      <b>HTML &amp; CSS</b>
+    </td>
+  </tr>
+</table>
 <img src="end.png" width="100%" />
 
 </div>
