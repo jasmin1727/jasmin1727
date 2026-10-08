@@ -8,6 +8,27 @@
 
 <br>
 
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="load.jpg" width="160" />
+    </td>
+    <td valign="middle">
+<pre>
+ _   _ _____ _     _       ___    __        __  ___  ____  _     ____  
+| | | | ____| |   | |     / _ \   \ \      / / / _ \|  _ \| |   |  _ \ 
+| |_| |  _| | |   | |    | | | |   \ \ /\ / / | | | | |_) | |   | | | |
+|  _  | |___| |___| |___ | |_| |    \ V  V /  | |_| |  _ &lt; | |___| |_| |
+|_| |_|_____|_____|_____| \___/      \_/\_/    \___/|_| \_\_____|____/ 
+</pre>
+    </td>
+  </tr>
+</table>
+
+<!--<sub>• system online — welcome_</sub>-->
+
+<br>
+
 <img src="end.png" width="100%" />
 
 </div>
