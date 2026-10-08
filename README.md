@@ -60,43 +60,43 @@
 <table>
   <tr>
     <td align="center">
-      <img src="C%2B%2B.png" width="250" height="300" /><br>
+      <img src="C%2B%2B.png" width="260" height="310" /><br>
       <b>C++</b>
     </td>
     <td align="center">
-      <img src="C.png" width="250" height="300" /><br>
+      <img src="C.png" width="260" height="310" /><br>
       <b>C</b>
     </td>
     <td align="center">
-      <img src="Python.png" width="240" height="290" /><br>
+      <img src="Python.png" width="245" height="295" /><br>
       <b>Python</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Go.png" width="250" height="300" /><br>
+      <img src="Go.png" width="300" height="350" /><br>
       <b>Go</b>
     </td>
     <td align="center">
-      <img src="javascriptdone.png" width="250" height="300" /><br>
+      <img src="javascriptdone.png" width="260" height="310" /><br>
       <b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="Typescript.png" width="250" height="300" /><br>
+      <img src="Typescript.png" width="260" height="310" /><br>
       <b>TypeScript</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="HTML%20CSS%20.png" width="250" height="300" /><br>
+      <img src="HTML%20CSS%20.png" width="260" height="310" /><br>
       <b>HTML &amp; CSS</b>
     </td>
     <td align="center">
-      <img src="SQL.png" width="250" height="300" /><br>
+      <img src="SQL.png" width="260" height="310" /><br>
       <b>SQL</b>
     </td>
     <td align="center">
-      <img src="PytorchDeepLearning.png" width="250" height="300" /><br>
+      <img src="PytorchDeepLearning.png" width="260" height="310" /><br>
       <b>PyTorch</b>
     </td>
   </tr>
