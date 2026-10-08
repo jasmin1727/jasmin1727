@@ -82,17 +82,17 @@
       <b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="Typescript.png" width="300" height="350" /><br>
+      <img src="Typescript.png" width="330" height="380" /><br>
       <b>TypeScript</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="HTML%20CSS%20.png" width="300" height="350" /><br>
+      <img src="HTML%20CSS%20.png" width="290" height="350" /><br>
       <b>HTML &amp; CSS</b>
     </td>
     <td align="center">
-      <img src="SQL.png" width="300" height="350" /><br>
+      <img src="SQL.png" width="300" height="400" /><br>
       <b>SQL</b>
     </td>
     <td align="center">
