@@ -29,20 +29,27 @@
 
 <h3 align="center">✦ Intro</h3>
 
-<p align="center">
-  <b>Name</b> &nbsp;·&nbsp; Jasmin<br>
-  <b>Age</b> &nbsp;·&nbsp; 19<br>
-  <b>Roots</b> &nbsp;·&nbsp; Gujarat, India<br>
-  <b>Education</b> &nbsp;·&nbsp; Diploma in Computer Engineering<br>
-  <b>Mindset</b> &nbsp;·&nbsp; Intellectual Omnivore<br>
-  <b>Daily Driver</b> &nbsp;·&nbsp; Arch Linux (Hyprland / Caelestia)<br>
-  <b>Current Mission</b> &nbsp;·&nbsp; PTE Academic &amp; Global Degree Journey
-</p>
+<table>
+  <tr>
+    <td>
+<pre>
+<b>jasmin@arch</b> ~ $ whoami
+────────────────────────────────────────────────────
 
-<p align="center">
-  <b>Philosophy</b><br>
-  <i>"Fall, learn, build, rise — and never stop exploring."</i>
-</p>
+ <b>Name</b>       ›  Jasmin
+ <b>Age</b>        ›  19
+ <b>Roots</b>      ›  Gujarat, India
+ <b>Education</b>  ›  Diploma in Computer Engineering
+ <b>Mindset</b>    ›  Intellectual Omnivore
+ <b>OS</b>         ›  Arch Linux (Hyprland / Caelestia)
+ <b>Mission</b>    ›  PTE Academic &amp; Global Degree Journey
+
+────────────────────────────────────────────────────
+ <i>"Fall, learn, build, rise — and never stop exploring."</i>
+</pre>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -83,6 +90,14 @@
     <td align="center">
       <img src="HTML%20CSS%20.png" width="250" height="300" /><br>
       <b>HTML &amp; CSS</b>
+    </td>
+    <td align="center">
+      <img src="SQL.png" width="250" height="300" /><br>
+      <b>SQL</b>
+    </td>
+    <td align="center">
+      <img src="PytorchDeepLearning.png" width="250" height="300" /><br>
+      <b>PyTorch</b>
     </td>
   </tr>
 </table>
