@@ -22,15 +22,32 @@
 |_| |_|_____|_____|_____| \___/      \_/\_/    \___/|_| \_\_____|____/ 
 </pre>
     </td>
-  
   </tr>
 </table>
-## 
-<br>
-
-# ✦ Languages
 
 <br>
+
+<h3 align="center">✦ Intro</h3>
+
+<p align="center">
+  <b>Name</b> &nbsp;·&nbsp; Jasmin<br>
+  <b>Age</b> &nbsp;·&nbsp; 19<br>
+  <b>Roots</b> &nbsp;·&nbsp; Gujarat, India<br>
+  <b>Education</b> &nbsp;·&nbsp; Diploma in Computer Engineering<br>
+  <b>Mindset</b> &nbsp;·&nbsp; Intellectual Omnivore<br>
+  <b>Daily Driver</b> &nbsp;·&nbsp; Arch Linux (Hyprland / Caelestia)<br>
+  <b>Current Mission</b> &nbsp;·&nbsp; PTE Academic &amp; Global Degree Journey
+</p>
+
+<p align="center">
+  <b>Philosophy</b><br>
+  <i>"Fall, learn, build, rise — and never stop exploring."</i>
+</p>
+
+<br>
+
+<h3 align="center">✦ Languages</h3>
+
 <br>
 
 <table>
@@ -69,16 +86,18 @@
     </td>
   </tr>
 </table>
-<br>
+
 <br>
 
-# ✦ Workspace
+<h3 align="center">✦ Workspace</h3>
 
 <br>
 
 <img src="Workspace.jpg" width="800" />
 
 <br>
+<br>
+
 <img src="end.png" width="100%" />
 
 </div>
