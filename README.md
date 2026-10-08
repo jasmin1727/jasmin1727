@@ -50,7 +50,7 @@
       <b>Go</b>
     </td>
     <td align="center">
-      <img src="javascript.png" width="250" height="300" /><br>
+      <img src="javascriptdone.png" width="250" height="300" /><br>
       <b>JavaScript</b>
     </td>
     <td align="center">
