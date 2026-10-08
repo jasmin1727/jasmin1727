@@ -65,6 +65,11 @@
     </td>
   </tr>
 </table>
+<br>
+
+<img src="Workspace.jpg" width="800" />
+
+<br>
 <img src="end.png" width="100%" />
 
 </div>
