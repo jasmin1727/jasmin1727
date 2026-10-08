@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://github.com"><img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white&color=1e293b" alt="Location" /></a>
     <a href="https://archlinux.org"><img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Focus-PTE%20Prep%20%26%20Building-769e00?style=for-the-badge&logo=target&logoColor=white" alt="Focus" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Focus-Building%20Systems%20%26%20LLMs-769e00?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Focus" /></a>
   </p>
 
   <p align="center">
@@ -88,7 +88,7 @@ Current Mission: PTE Academic & Global Degree Journey
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jasmin1727&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=jasmin1727&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 
 <br/><br/>
 
