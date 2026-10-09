@@ -39,10 +39,10 @@
  <b>Name</b>       ›  Jasmin
  <b>Age</b>        ›  19
  <b>Roots</b>      ›  Gujarat, India
- <b>Education</b>  ›  Diploma in Computer Engineering
+ <b>Education</b>  ›  Diploma @SPU → B.E. Computer Engineering @MEC
  <b>Mindset</b>    ›  Intellectual Omnivore
  <b>OS</b>         ›  Arch Linux (Hyprland / Caelestia)
- <b>Mission</b>    ›  PTE Academic &amp; Global Degree Journey
+ <b>Mission</b>    ›  Learn · Build · Ship & Deep Learning
 
 ────────────────────────────────────────────────────
  <i>"Fall, learn, build, rise — and never stop exploring."</i>
