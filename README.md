@@ -234,6 +234,50 @@ Current Mission: PTE Academic & Global Degree Journey
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <sub>Designed with ❤️ by Jasmin • Powered by Curiosity & Arch Linux</sub>
 </div>
