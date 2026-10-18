@@ -45,7 +45,7 @@
   </tr>
 </table>
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jasmin1727/jasmin1727/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contributions Snake Animation" />
@@ -53,7 +53,7 @@
 
 <br clear="both" />
 
----
+--- -->
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
