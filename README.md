@@ -1,5 +1,5 @@
 <p align="center">   
-  <img src=".github/assets/done.gif?raw=true" width="100%" />
+  <img src=".github/assets/ok.gif?raw=true" width="100%" />
 </p> 
 
 <p align="center">  
@@ -125,6 +125,6 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src=".github/assets/neural.svg" width="100%" alt="Neural Repository Memory Graph" />
-</p>
+</p> -->
