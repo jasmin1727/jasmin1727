@@ -2,13 +2,21 @@
   <img src="https://media.tenor.com/C10Ba4gtO1oAAAAd/cyber.gif" width="100%" />
 </p> 
 
+<div align="center">
+  <a href="https://github.com/jasmin1727">
+    <img src="https://github.com/jasmin1727.png" width="110" height="110" style="border-radius: 50%;" alt="Jasmin" />
+  </a>
+  <h2>✦ Jasmin (jasmin1727) ✦</h2>
+  <p><i>Low-Level Systems &amp; Deep Learning Enthusiast</i></p>
+</div>
+
 <p align="center">  
-  <img src=".github/assets/metrics-stats.svg?raw=true" width="49%" />
-  <img src=".github/assets/metrics-repository.svg?raw=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasmin1727&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmin1727&layout=compact&theme=midnight-purple&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src=".github/assets/metrics-activity.svg?raw=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmin1727&theme=midnight-purple&hide_border=true" width="98%" />
 </p>
 
 ---
@@ -19,9 +27,7 @@
       <img src=".github/assets/kenkankei_cmp.png" width="260" alt="Ken Kaneki" />
     </td>
     <td valign="middle" width="65%">
-
 <h3>⚡ Jasmin // <code>jasmin@arch</code></h3>
-
 <pre>
 ┌── [ SYSTEM DIAGNOSTICS ] ─────────────────────────┐
 │ • User      › Jasmin (jasmin1727)                 │
@@ -33,11 +39,9 @@
 │ • Mindset   › Intellectual Omnivore               │
 └───────────────────────────────────────────────────┘
 </pre>
-
 <blockquote>
 <i>"Fall, learn, build, rise — and never stop exploring."</i>
 </blockquote>
-
 <h4>✦ What I'm Building &amp; Exploring</h4>
 <ul>
   <li>🔥 <b>Low-Level Systems</b>: Writing fast, memory-safe software with C, C++, and Rust</li>
@@ -45,15 +49,14 @@
   <li>💻 <b>Custom Unix Environment</b>: Minimalist workflow driven by Arch Linux, Hyprland, and Neovim</li>
   <li>🚀 <b>Open Source</b>: Always building CLI utilities, backend architectures, and developer tooling</li>
 </ul>
-
-    </td>
+</td>
   </tr>
 </table>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasmin1727&theme=high-contrast&hide_border=true&area=true" width="98%" />
+  <img src="https://raw.githubusercontent.com/jasmin1727/jasmin1727/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contributions Snake Animation" />
 </p>
 
 <br clear="both" />
