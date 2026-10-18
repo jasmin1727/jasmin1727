@@ -1,5 +1,5 @@
 <p align="center">   
-  <img src="https://motionbgs.com/media/453/cozy-bedroom-at-night.960x540.mp4" width="100%" />
+  <img src=".github/assets/done.gif?raw=true" width="100%" />
 </p> 
 
 <p align="center">  
