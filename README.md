@@ -19,7 +19,7 @@
       <img src=".github/assets/kenkankei_cmp.png" width="260" alt="Ken Kaneki" />
     </td>
     <td valign="middle" width="65%">
-<h3>⚡ Jasmin // <code>jasmin@arch</code></h3>
+<h3><code>jasmin@arch~></code>whoami⚡</h3>
 <pre>
 ┌── [ SYSTEM DIAGNOSTICS ] ─────────────────────────┐
 │ • User      › Jasmin (jasmin1727)                 │
