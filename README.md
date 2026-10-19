@@ -61,6 +61,9 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=qt" width="40" height="40" alt="Qt / QML" />
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
     </td>
     <td align="center" width="96">
@@ -75,12 +78,12 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
-    </td>
   </tr>
 
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
+    </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="Kaggle" />
     </td>
@@ -96,12 +99,12 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim" />
-    </td>
   </tr>
 
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim" />
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="Arch Linux" />
     </td>
@@ -110,9 +113,6 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/x/white" width="40" height="40" alt="X" />
