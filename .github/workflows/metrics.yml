@@ -45,7 +45,7 @@ jobs:
           with:
             filename: .github/assets/metrics-repository.svg
             token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-            committer_token: ${{ secrets.GITHUB_TOKEN }}
+            committer_token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
             user: jasmin1727
             template: classic
             base: ""

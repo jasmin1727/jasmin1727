@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "jasmin1727"
+          git config user.email "thakorjasmin503@gmail.com"
           git add .github/assets/stats.svg
           git commit -m "Update README cards" || exit 0
           git pull --rebase origin main
